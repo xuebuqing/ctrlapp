@@ -1,9 +1,10 @@
 package config
 
 import (
-	"github.com/edgehook/ctrlapp/pkg/utils"
 	"os"
 	"sync"
+
+	"github.com/xuebuqing/ctrlapp/pkg/utils"
 )
 
 const (

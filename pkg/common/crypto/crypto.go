@@ -3,8 +3,8 @@ package crypto
 import (
 	"encoding/base64"
 
-	"github.com/edgehook/ctrlapp/pkg/common/crypto/descbc"
-	"github.com/edgehook/ctrlapp/pkg/common/crypto/rsa"
+	"github.com/xuebuqing/ctrlapp/pkg/common/crypto/descbc"
+	"github.com/xuebuqing/ctrlapp/pkg/common/crypto/rsa"
 )
 
 const (

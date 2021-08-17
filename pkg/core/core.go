@@ -2,11 +2,12 @@ package core
 
 import (
 	"encoding/json"
-	"github.com/edgehook/ctrlapp/pkg/common/config"
-	"github.com/edgehook/ctrlapp/pkg/utils"
-	"k8s.io/klog/v2"
 	"path/filepath"
 	"strings"
+
+	"github.com/xuebuqing/ctrlapp/pkg/common/config"
+	"github.com/xuebuqing/ctrlapp/pkg/utils"
+	"k8s.io/klog/v2"
 )
 
 type CtrAppCore struct {

@@ -8,9 +8,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/edgehook/ctrlapp/pkg/common/crypto"
-	"github.com/edgehook/ctrlapp/pkg/utils"
 	"github.com/fsnotify/fsnotify"
+	"github.com/xuebuqing/ctrlapp/pkg/common/crypto"
+	"github.com/xuebuqing/ctrlapp/pkg/utils"
 	"k8s.io/klog/v2"
 )
 

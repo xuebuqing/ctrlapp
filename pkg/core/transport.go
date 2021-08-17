@@ -10,9 +10,9 @@ import (
 
 	"k8s.io/klog/v2"
 
-	"github.com/edgehook/ctrlapp/pkg/common/config"
-	"github.com/edgehook/ctrlapp/pkg/core/mqtt"
-	"github.com/edgehook/ctrlapp/pkg/utils"
+	"github.com/xuebuqing/ctrlapp/pkg/common/config"
+	"github.com/xuebuqing/ctrlapp/pkg/core/mqtt"
+	"github.com/xuebuqing/ctrlapp/pkg/utils"
 )
 
 type Transport struct {
